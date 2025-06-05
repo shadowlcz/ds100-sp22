@@ -1,3 +1,13 @@
+'''
+Author: ShadowLcz
+Date: 2025-01-29 07:09:28
+LastEditTime: 2025-06-04 22:43:45
+LastEditors: ShadowLcz
+Description: 
+FilePath: /lab/lab01/tests/q2d.py
+'''
+OK_FORMAT = True
+
 test = {   'name': 'q2d',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> valid_values\n'

@@ -1,4 +1,4 @@
-import sys
+OK_FORMAT=True\import sys
 import numpy as np
 
 try:

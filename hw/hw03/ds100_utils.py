@@ -1,4 +1,4 @@
-"""Some common utilities for classwork and homework in Berkeley's Data100.
+OK_FORMAT=True\"""Some common utilities for classwork and homework in Berkeley's Data100.
 """
 
 def head(filename, lines=5):

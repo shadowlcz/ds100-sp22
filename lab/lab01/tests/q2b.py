@@ -1,3 +1,13 @@
+'''
+Author: ShadowLcz
+Date: 2025-01-29 07:09:28
+LastEditTime: 2025-06-04 22:43:29
+LastEditors: ShadowLcz
+Description: 
+FilePath: /lab/lab01/tests/q2b.py
+'''
+OK_FORMAT = True
+
 test = {   'name': 'q2b',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> elementwise_array_sum([], [])\narray([], dtype=float64)', 'hidden': False, 'locked': False},

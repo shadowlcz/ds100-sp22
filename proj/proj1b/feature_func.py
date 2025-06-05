@@ -1,4 +1,4 @@
-import numpy as np
+OK_FORMAT=True\import numpy as np
 import pandas as pd
 
 def remove_outliers(data, variable, lower=-np.inf, upper=np.inf):
